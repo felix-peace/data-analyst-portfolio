@@ -15,6 +15,7 @@ dashboards in Power BI to turn that data into clear, actionable insights.
 ## 🔧 Skills
 - **Data Cleaning & Preparation:** Excel (Power Query, formulas, pivot tables)
 - **Data Visualization:** Power BI (DAX, interactive dashboards, data modeling)
+- **Also working with:** SQL for data querying and cleaning
 
 ---
 
