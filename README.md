@@ -3,7 +3,7 @@
 
 **Data Analyst | Power BI & Excel Specialist**
 
-*Turning raw, messy data into dashboards that tell a clear story.*
+*Turning raw, messy data into dashboards that tells a clear story.*
 
 Recently completed my data analytics program and currently building 
 hands-on projects to demonstrate my data analysis skills. I specialize 
