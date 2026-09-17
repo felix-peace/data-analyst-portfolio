@@ -28,6 +28,12 @@ Page one tracks attrition rate, headcount, payroll, and satisfaction by
 department; page two drills into productivity, tenure, promotion rate, and 
 performance scores by job role and age group.
 
+![HR Analytics Dashboard - Attrition & Compensation Overview](IMG-20260908-WA0003.jpg)
+
+![Workforce Deep Dive - Productivity & Demographics](IMG-20260909-WA0002.jpg)
+
+---
+
 **Key Insights:**
 - Millennials accounted for the highest termination volume (865), nearly 
   60% more than Gen Z (553) and over 10x that of Gen X (73)
