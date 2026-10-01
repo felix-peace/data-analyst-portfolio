@@ -72,4 +72,4 @@ Source: an Excel workbook with 6 sheets (employees, stores, monthly performance,
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/ukamaka-felix-4160993ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: felixpeace1@outlook.com
+- Email: beautyfelix6@gmail.com
